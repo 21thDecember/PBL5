@@ -1,0 +1,49 @@
+datetime,temp,dew,humidity,precip,precipprob,windspeed,winddir,cloudcover,visibility,solarradiation,solarenergy,uvindex,conditions,icon
+2023-05-24T00:00:00,28,23,74.34,0,0,7.5,211,25,10,0,0,0,Partially cloudy,partly-cloudy-night
+2023-05-24T01:00:00,27.9,23,74.39,0,0,1.8,221.6,25,10,0,0,0,Partially cloudy,partly-cloudy-night
+2023-05-24T02:00:00,27,24,83.57,0,0,7.5,190,25,10,0,0,0,Partially cloudy,partly-cloudy-night
+2023-05-24T03:00:00,27,23,78.78,0,0,7.5,190,25,10,0,0,0,Partially cloudy,partly-cloudy-night
+2023-05-24T04:00:00,27,23,78.67,0,0,3.6,190,25,10,0,0,0,Partially cloudy,partly-cloudy-night
+2023-05-24T05:00:00,26,23,83.56,0,0,3.6,198,25,10,0,0,0,Partially cloudy,partly-cloudy-night
+2023-05-24T06:00:00,27,24,83.73,0,0,1.8,201,25,10,28,0.1,0,Partially cloudy,partly-cloudy-day
+2023-05-24T07:00:00,30.9,24,66.46,0,0,0.1,359,50,10,215,0.8,2,Partially cloudy,partly-cloudy-day
+2023-05-24T08:00:00,33,24,59.26,0,0,1.8,220,84.9,10,444,1.6,4,Partially cloudy,partly-cloudy-day
+2023-05-24T09:00:00,33.9,23,52.82,0,0,12.9,1,50,10,653,2.4,7,Partially cloudy,partly-cloudy-day
+2023-05-24T10:00:00,34,24,56.03,0,0,9.3,1,5,10,824,3,8,Clear,clear-day
+2023-05-24T11:00:00,35,24,53.07,0,0,14.7,1,25,10,939,3.4,9,Partially cloudy,partly-cloudy-day
+2023-05-24T12:00:00,34,25,59.53,0,0,13,21,25,10,988,3.6,10,Partially cloudy,partly-cloudy-day
+2023-05-24T13:00:00,34,24,56.07,0,0,29.4,1,25,10,970,3.5,10,Partially cloudy,partly-cloudy-day
+2023-05-24T14:00:00,33.9,23.9,56.1,0.1,100,22.3,359,25,10,885,3.2,9,"Rain, Partially cloudy",rain
+2023-05-24T15:00:00,31.9,24.9,66.61,0,0,14.8,319,50,10,738,2.7,7,Partially cloudy,partly-cloudy-day
+2023-05-24T16:00:00,28.9,21,62.17,0.2,100,18.3,220,50,10,542,2,5,"Rain, Partially cloudy",rain
+2023-05-24T17:00:00,28.9,19,55.11,2.3,100,13,210,50.4,10,263,0.9,3,"Rain, Partially cloudy",rain
+2023-05-24T18:00:00,26,22,78.63,5.5,100,9.4,180,88,10,11,0,0,"Rain, Partially cloudy",rain
+2023-05-24T19:00:00,27,22,74.13,3.7,100,1.9,220,88,10,0,0,0,"Rain, Partially cloudy",rain
+2023-05-24T20:00:00,26,22,78.53,0,0,13,309,88,10,0,0,0,Partially cloudy,partly-cloudy-night
+2023-05-24T21:00:00,27,22,74.08,0.1,100,3.6,170,50,10,0,0,0,"Rain, Partially cloudy",rain
+2023-05-24T22:00:00,26,22.9,83.4,0,0,5.5,210,50,10,0,0,0,Partially cloudy,partly-cloudy-night
+2023-05-24T23:00:00,26,22.9,83.4,0,0,5.4,190,50,10,0,0,0,Partially cloudy,partly-cloudy-night
+2023-05-25T00:00:00,26,22.9,83.4,0,0,14.6,190,25.3,10,0,0,0,Partially cloudy,partly-cloudy-night
+2023-05-25T01:00:00,25,22.9,88.45,0,0,9.4,210,25.3,10,0,0,0,Partially cloudy,partly-cloudy-night
+2023-05-25T02:00:00,26,23,83.56,0,0,5.4,190,25.3,10,0,0,0,Partially cloudy,partly-cloudy-night
+2023-05-25T03:00:00,25,23,88.62,0,0,0.1,360,25.7,10,0,0,0,Partially cloudy,partly-cloudy-night
+2023-05-25T04:00:00,26,23,83.61,0,0,5.4,181,25.7,10,0,0,0,Partially cloudy,partly-cloudy-night
+2023-05-25T05:00:00,26,23,83.56,0,0,1.8,260,50,10,0,0,0,Partially cloudy,partly-cloudy-night
+2023-05-25T06:00:00,26,23,83.56,0,0,5.4,220,25,10,24,0.1,0,Partially cloudy,partly-cloudy-day
+2023-05-25T07:00:00,28.9,24,74.5,0,0,1.8,230,25.3,10,199,0.7,2,Partially cloudy,partly-cloudy-day
+2023-05-25T08:00:00,31,23,62.53,0,0,3.6,360,25,10,435,1.6,4,Partially cloudy,partly-cloudy-day
+2023-05-25T09:00:00,32.9,23,55.9,0,0,7.6,60,25,10,648,2.3,6,Partially cloudy,partly-cloudy-day
+2023-05-25T10:00:00,32,25,66.57,0,0,7.6,60,25,10,816,2.9,8,Partially cloudy,partly-cloudy-day
+2023-05-25T11:00:00,33,24.9,62.88,0.1,100,14.7,350,25,10,932,3.4,9,"Rain, Partially cloudy",rain
+2023-05-25T12:00:00,33,24.9,62.88,0.2,100,20.4,350,25,10,982,3.5,10,"Rain, Partially cloudy",rain
+2023-05-25T13:00:00,32.9,25.9,66.77,0,0,20.5,351,25,10,947,3.4,9,Partially cloudy,partly-cloudy-day
+2023-05-25T14:00:00,31.9,25.9,70.6,0.1,0,23.9,358,50,10,878,3.2,9,Partially cloudy,partly-cloudy-day
+2023-05-25T15:00:00,29.4,24.3,74.08,0.8,100,10.4,74.6,61.7,24.1,676,2.4,7,"Rain, Partially cloudy",rain
+2023-05-25T16:00:00,28.7,24.1,76.22,0.5,100,8.3,69,98.4,23.7,347,1.2,3,"Rain, Overcast",rain
+2023-05-25T17:00:00,27.7,23.9,79.83,1.5,100,3.6,130.3,100,4.2,68,0.2,1,"Rain, Overcast",rain
+2023-05-25T18:00:00,25.9,24.2,90.36,3.1,100,11.9,161.8,100,9.6,6,0,0,"Rain, Overcast",rain
+2023-05-25T19:00:00,25.5,23.5,88.72,0.8,100,9.4,233.5,100,24.1,0,0,0,"Rain, Overcast",rain
+2023-05-25T20:00:00,26,23.2,84.58,0,57.1,12.2,233.6,100,20.1,0,0,0,"Rain, Overcast",rain
+2023-05-25T21:00:00,26,23.3,85.09,0.3,57.1,13.3,234.2,100,24.1,0,0,0,"Rain, Overcast",rain
+2023-05-25T22:00:00,26.2,23.5,85.11,0,57.1,12.2,224.4,100,24.1,0,0,0,"Rain, Overcast",rain
+2023-05-25T23:00:00,26.3,23.6,85.12,0,57.1,9.7,224.4,100,24.1,0,0,0,"Rain, Overcast",rain
